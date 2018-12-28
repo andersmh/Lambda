@@ -1,2 +1,2 @@
 # Lambda
-An overview of lambda and how it works
+Overview of lambda and how it works
